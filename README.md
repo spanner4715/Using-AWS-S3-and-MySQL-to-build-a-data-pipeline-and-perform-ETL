@@ -4,6 +4,10 @@ A data pipeline is a technique for transferring data from one system to another.
 
 ## Steps  
 1. Create a bucket in Amazon S3 and store data in 
-2. 
+2. Get access key from AWS IAM role
+3. Use hadoop package to read S3 file  
+4. Set up sparkcontext configuration  
+5. Do ETL
+
 
  
